@@ -1,0 +1,188 @@
+.signup-form {
+    background-image: url('../../images/pencilbg.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 900px;
+    position: relative;
+}
+
+.signup-form h1 {
+    text-align: center;
+    font-size: 45px;
+    padding: 30px 0px;
+    letter-spacing: 3px;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.content-signup {
+    display: flex;
+}
+
+.content-signup .card-left {
+    background-color: #fff;   
+    -webkit-flex-basis: 65%;
+    box-sizing: border-box;
+    padding: 4em; 
+}
+
+.content-signup .card-left .content-left h2{
+    display: inline-block;
+    font-size: 26px;
+    margin-bottom: 40px;
+    color: #4CAF50;
+    letter-spacing: 2px;
+}
+
+.content-signup .card-left .left-form {
+    margin-right: 2%;
+    width: 49%;
+    float: left;
+}
+
+.content-signup .card-left .left-form label {
+    margin: 0;
+    font-size: 15px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #777;
+}
+.content-signup .card-left .left-form .input-group {
+    padding: 0px 0px;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 28px;
+    margin-top: 7px;
+}
+
+.content-signup .card-left .left-form .input-group i {
+    font-size: 16px;
+    vertical-align: middle;
+    color: #999;
+    box-sizing: border-box;
+    float: left;
+    width: 6%;
+    text-align: center;
+    margin-top: 15px;
+}
+input[type="text"] {
+    font-size: 15px;
+    font-weight: 500;
+    text-align: left;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+    padding: 12px 10px 12px 10px;
+    width: 90%;
+    display: inline-block;
+    box-sizing: border-box;
+    border: none;
+    outline: none;
+    background: transparent;
+}
+
+input[type="password"] {
+    font-size: 15px;
+    font-weight: 500;
+    text-align: left;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+    padding: 12px 10px 12px 10px;
+    width: 90%;
+    display: inline-block;
+    box-sizing: border-box;
+    border: none;
+    outline: none;
+    background: transparent;
+}
+
+.content-signup .card-left .right-form {
+    margin-right: 0%;
+    width: 49%;
+    float: right;
+}
+
+.content-signup .card-left .right-form label {
+    margin: 0;
+    font-size: 15px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #777;
+}
+.content-signup .card-left .right-form .input-group {
+    padding: 0px 0px;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 28px;
+    margin-top: 7px;
+}
+
+.content-signup .card-left .right-form .input-group i {
+    font-size: 16px;
+    vertical-align: middle;
+    color: #999;
+    box-sizing: border-box;
+    float: left;
+    width: 6%;
+    text-align: center;
+    margin-top: 15px;
+}
+.clear {
+    clear: both;
+}
+.content-signup .card-left .clear h4 {
+    display: inline-block;
+    font-size: 15px;
+    color: #444;
+    text-transform: capitalize;
+}
+.content-signup .card-left .btn-danger {
+    color: #fff;
+    background-color: #ce6c6c;
+    margin-top: 30px;
+    width: 45%;
+    outline: none;
+    padding: 15px 12px;
+    cursor: pointer;
+    letter-spacing: 2px;
+    font-size: 15px;
+    font-weight: 600;
+    border: 1px solid #ce6c6c;
+    transition: 0.5s all;
+    -webkit-transition: 0.5s all;
+}
+
+
+
+/* right */
+.content-signup .card-right {
+    background-color: #ce6c6c;  
+    -webkit-flex-basis: 35%;
+    box-sizing: border-box;
+    padding: 3em; 
+}
+.content-signup .card-right .content-right {
+    color: white;
+    padding-top: 15%;
+}
+.content-signup .card-right .content-right h3 {
+    letter-spacing: 3px;
+    line-height: 80px;
+}
+
+.content-signup .card-right .btn-danger {
+    color: #fff;
+    background-color: #ce6c6c;
+    margin-top: 30px;
+    width: 70%;
+    outline: none;
+    padding: 15px 12px;
+    cursor: pointer;
+    letter-spacing: 2px;
+    font-size: 15px;
+    font-weight: 600;
+    border: 1px solid #fff;
+    transition: 0.5s all;
+    -webkit-transition: 0.5s all;
+}

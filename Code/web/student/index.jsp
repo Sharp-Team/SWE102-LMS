@@ -186,27 +186,7 @@
                 </div>
             </div>
         </div>
-        <!-- end six-container -->
-        <footer class="end-page">
-            <div class="container">
-                <div class="row text-center">
-                    <div class="col-6 footer-fpt">
-                        <h4>FPT UNIVERSITY</h4>
-                    </div>
-                    <div class="col-6">
-                        <div class="pull-md-right offset-top-30 offset-md-top-10">
-                            <ul class="list-inline">
-                                <li class="list-inline-item"><a class="icon fa fa-facebook icon-xxs icon-circle icon-gray-darkest-filled" href="#"></a></li>
-                                <li class="list-inline-item"><a class="icon fa fa-twitter icon-xxs icon-circle icon-gray-darkest-filled" href="#"></a></li>
-                                <li class="list-inline-item"><a class="icon fa fa-google-plus icon-xxs icon-circle icon-gray-darkest-filled" href="#"></a></li>
-                                <li class="list-inline-item"><a class="icon fa fa-linkedin icon-xxs icon-circle icon-gray-darkest-filled" href="#"></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </footer>
+        <%@ include file="../share/footer.jsp" %>
         <!-- Optional JavaScript -->
         <!-- jQuery first, then Popper.js, then Bootstrap JS -->
         <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"

@@ -1,6 +1,5 @@
 .background-header-page {
-    background-image: url("./images/bg-book-01-1920x1000.jpg");
-    background-attachment: fixed;
+    background-image: url("../../images/bg-book-01-1920x1000.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 600px;
@@ -121,7 +120,7 @@
 }
 
 .pr-FPT {
-    background-image: url("./images/bg-library.jpg");
+    background-image: url("../../images/bg-library.jpg");
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
@@ -207,7 +206,7 @@
 }
 
 .bg-register-new {
-    background-image: url("./images/bg-register-book.jpg");
+    background-image: url("../../images/bg-register-book.jpg");
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
@@ -274,6 +273,3 @@ input.form-control.form-control-has-validation {
 .list-inline-darkest > li > a:hover {
 	color: #ed6a5a;
 }
-
-
-    

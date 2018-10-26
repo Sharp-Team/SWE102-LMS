@@ -1,0 +1,279 @@
+.background-header-page {
+    background-image: url("./images/bg-book-01-1920x1000.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 600px;
+    position: relative;
+}
+.logo-FPT img {
+    width: 50%;
+}
+.login-register a {
+    color: #FF3333;
+    text-decoration: none;
+    margin-right: 15px;
+}
+.login-register a.register {   
+    margin-right: 5px;
+}
+.intro-lib {
+    top: 40%;
+    position: absolute;
+    padding-right: 250px;
+}
+.intro-lib .content-lib h1 {
+    font-weight: 700 !important;
+    font-family: inherit;
+    color: #434345;
+    line-height: 1.125;
+}
+.intro-lib .description-lib h4 {
+    padding-top: 10px;
+    color: #9b9b9b !important;
+    font-weight: 400;
+    font-size: 1rem;
+}
+.intro-lib .group-button {
+    padding-top: 42px;
+}
+.intro-lib .group-button .btn {
+    background-color:#ed6a5a;
+    border-radius: 5px;
+    border-color: #ed6a5a;
+    color: white;
+    padding: 7px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    width: 150px;
+}
+.intro-lib .group-button .btn:hover {
+    background-color: #e84f3c;
+}
+.count-page {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background: linear-gradient(90deg, #ed6a5a 0%, #f4f1bb 100%);
+}
+.count-page .wrap-second-container .count-all {
+    border-right: 1px solid #cecece;
+}
+.count-page .wrap-second-container .count-all span.icon {
+    font-size: 30px;
+}
+.count-page .wrap-second-container .count-all .number-count {
+    padding-top: 6px;
+    color: #fff;
+} 
+.count-page .wrap-second-container .count-all .count-type {
+    padding-top: 6px;
+    color: #fff;
+}
+
+.count-page .wrap-second-container .count-all-special span.icon {
+    font-size: 30px;
+}
+.count-page .wrap-second-container .count-all-special .number-count {
+    padding-top: 6px;
+    color: #fff;
+} 
+.count-page .wrap-second-container .count-all-special .count-type {
+    padding-top: 6px;
+    color: #fff;
+}
+.container.third-container {
+    margin-top: 90px;
+}
+
+
+.notification-lib {
+    padding-right: 100px;
+    padding-top: 15px;
+}
+.notification-lib .content-noti h2 {
+    font-weight: 700 !important;
+    font-family: inherit;
+    color: #434345;
+    line-height: 1.125;
+    letter-spacing: 2px;
+}
+.notification-lib .description-noti h4 {
+    padding-top: 10px;
+    color: #9b9b9b !important;
+    font-weight: 400;
+    font-size: 0.9rem;
+}
+.notification-lib .group-button {
+    padding-top: 42px;
+}
+.notification-lib .group-button .btn {
+    background-color:#ed6a5a;
+    border-radius: 5px;
+    border-color: #ed6a5a;
+    color: white;
+    padding: 7px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    width: 150px;
+}
+.notification-lib .group-button .btn:hover {
+    background-color: #e84f3c;
+}
+
+.pr-FPT {
+    background-image: url("./images/bg-library.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 500px;
+    position: relative;
+}
+.pr-FPT .wrap-content-pr {
+    position: absolute;
+    top: 30%;
+}
+.pr-FPT .content-pr h2{
+    letter-spacing: 4px;
+    line-height: 1.2;
+    font-size: 45px;
+    color: #fff;
+}
+.pr-FPT .description-pr h4 {
+    color: #fff;
+    padding-top: 10px;
+    font-weight: 400;
+    font-size: 0.9rem;
+}
+.pr-FPT .group-button {
+    padding-top: 42px;
+} 
+.pr-FPT .group-button .btn {
+    background-color:#ed6a5a;
+    border-radius: 5px;
+    border-color: #ed6a5a;
+    color: white;
+    padding: 7px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    width: 150px;
+}
+.pr-FPT .group-button .btn:hover {
+    background-color: #e84f3c;
+}
+
+.register-book {
+    padding-top: 110px;
+    padding-bottom: 110px;
+    background: linear-gradient(90deg, #5ca4a9 0%, #e6ebe0 100%);
+    position: relative;
+}
+.register-book .content-register h2 {
+    line-height: 1.2;
+    font-size: 45px;
+    margin-bottom: 30px;
+    font-family: inherit;
+    font-weight: 700;
+}
+.register-book .rule-book {
+    background-color: #fff;
+}
+.register-book .rule-book .content-rule {
+    margin-top: 50px;
+}
+.register-book .rule-book .time-rule {
+    color: #ed6a5a;
+    line-height: 1;
+}
+.register-book .rule-book .text-darker {
+    color: #434345 !important;
+}
+.register-book .rule-book .text-dark {
+    color: #9b9b9b !important;
+}
+.register-book .rule-book .list-unstyled {
+    line-height: 2;
+}
+.register-book .rule-book .btn-primary {
+    color: #fff;
+    background-color: #ed6a5a;
+    border-color: #ed6a5a;
+    margin-top: 35px;
+    margin-bottom: 50px;
+    width: 90%!important;
+    margin-left: 35px;
+}
+.register-book .rule-book .btn-primary:hover {
+    background-color: #e84f3c;
+}
+
+.bg-register-new {
+    background-image: url("./images/bg-register-book.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 500px;
+    position: relative;
+}
+.bg-register-new .wrap-register-new {
+    margin-top: 100px;
+}
+.bg-register-new .wrap-register-new .content-register-new h2 {
+    color: #fff;
+    line-height: 1.2;
+    font-size: 45px;
+}
+.bg-register-new .wrap-register-new .description-register-new {
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.bg-register-new .wrap-register-new .description-register-new p {
+    color: #fff;
+    line-height: 5px;
+}
+
+.input-group {
+    position: relative;
+    display: flex;
+    align-items: stretch;
+    width: 100%;
+}
+.has-error .btn {
+    border-color: #f54b0f;
+    background: #f54b0f;
+}
+.input-group-addon:not(:last-child) {
+    border-right: 0;
+}
+input.form-control.form-control-has-validation {
+    height: 45px;
+}
+.has-error button.btn.btn-sm.btn-primary {
+    width: 100px;
+}
+
+.end-page {
+    background-color: #191919;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    position: relative;
+}
+.end-page .footer-fpt {
+    color: #fff;
+}
+
+.list-inline {margin-left: -5px;margin-right: -5px;}
+
+.list-inline > li {padding-left: 5px;padding-right: 5px;}
+
+.list-inline-darkest > li > a {
+	color: #434345;
+	transition: .3s;
+}
+
+.list-inline-darkest > li > a:hover {
+	color: #ed6a5a;
+}
+
+
+    

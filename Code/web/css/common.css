@@ -1,0 +1,22 @@
+.end-page {
+    background-color: #191919;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    position: relative;
+}
+.end-page .footer-fpt {
+    color: #fff;
+}
+
+.list-inline {margin-left: -5px;margin-right: -5px;}
+
+.list-inline > li {padding-left: 5px;padding-right: 5px;}
+
+.list-inline-darkest > li > a {
+	color: #434345;
+	transition: .3s;
+}
+
+.list-inline-darkest > li > a:hover {
+	color: #ed6a5a;
+}

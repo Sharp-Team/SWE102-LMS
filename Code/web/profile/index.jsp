@@ -69,7 +69,7 @@
                                     <input type="text" value="0349088188" required=""> 
                                 </div>
                             </div>
-                            <button type="button" class="btn btn-danger btn-block">
+                            <button type="submit" class="btn btn-danger btn-block">
                                 Cập nhật thông tin
                                 <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
                             </button>

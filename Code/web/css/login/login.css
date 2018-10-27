@@ -1,0 +1,117 @@
+.signin-form {
+    background-image: url('../../images/pencilbg.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    position: relative;
+}
+
+.signin-form h1 {
+    text-align: center;
+    font-size: 45px;
+    padding: 30px 0px;
+    letter-spacing: 3px;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.content-signin {
+    display: flex;
+    justify-content: center;
+}
+
+.content-signin .card-left {
+    background-color: #fff;   
+    box-sizing: border-box;
+    padding: 4em; 
+}
+
+.content-signin .card-left .content-left h2{
+    font-size: 26px;
+    margin-bottom: 40px;
+    color: #ce6c6c;
+    letter-spacing: 2px;
+}
+
+.content-signin .card-left .left-form {
+    margin-left: 20%;
+    width: 60%;
+    float: left;
+}
+
+.content-signin .card-left .left-form label {
+    margin: 0;
+    font-size: 15px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #777;
+}
+.content-signin .card-left .left-form .input-group {
+    padding: 0px 0px;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 28px;
+    margin-top: 7px;
+}
+
+.content-signin .card-left .left-form .input-group i {
+    font-size: 16px;
+    vertical-align: middle;
+    color: #999;
+    box-sizing: border-box;
+    float: left;
+    width: 6%;
+    text-align: center;
+    margin-top: 15px;
+}
+input[type="text"] {
+    font-size: 15px;
+    font-weight: 500;
+    text-align: left;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+    padding: 12px 10px 12px 10px;
+    width: 90%;
+    display: inline-block;
+    box-sizing: border-box;
+    border: none;
+    outline: none;
+    background: transparent;
+}
+
+input[type="password"] {
+    font-size: 15px;
+    font-weight: 500;
+    text-align: left;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+    padding: 12px 10px 12px 10px;
+    width: 90%;
+    display: inline-block;
+    box-sizing: border-box;
+    border: none;
+    outline: none;
+    background: transparent;
+}
+
+.content-signin .card-left .btn-danger {
+    margin-left: 20%;
+    text-align: center;
+    color: #ce6c6c;
+    background-color: #fff;
+    margin-top: 30px;
+    width: 60%;
+    outline: none;
+    padding: 15px 12px;
+    cursor: pointer;
+    letter-spacing: 2px;
+    font-size: 15px;
+    font-weight: 600;
+    border: 1px solid #ce6c6c;
+    transition: 0.5s all;
+    -webkit-transition: 0.5s all;
+}
+
+
